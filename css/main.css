@@ -1167,7 +1167,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2e6628;
+  background: #b38b4b;
 }
 .sidebar-nav {
   margin: 0;
@@ -1705,15 +1705,16 @@ body {
 }
 .back-to-top {
   position: fixed;
-  bottom: 19px;
+  bottom: 34px;
   right: 50px;
   z-index: 1050;
-  width: 15px;
-  height: 13px;
+  width: 75px;
+  height: 33px;
   padding: 5px;
-  background: #222;
-  color: #fff;
+  background: #fff;
+  color: #000;
   cursor: pointer;
+  font-size: 15px;
   -webkit-transform: translateZ(0);
 }
 @media (max-width: 767px) {
